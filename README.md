@@ -1,7 +1,7 @@
 # Neural-Networks-From-Scratch
 Neural Networks from scratch in python using forward and backward propagation 
 
-create neural network from fundation 
+create neural network from basic. 
 
 open in google colab and try it 
 
